@@ -38,4 +38,4 @@ Emily Sato: Emily kept the team's technology running smoothly. Whether it was a 
 
 ###### Actual Response to Above User Text
 
-Directory - End Point Output
+Find in Directory - End Point Output
