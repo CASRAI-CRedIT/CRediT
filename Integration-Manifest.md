@@ -1,4 +1,4 @@
-### Subject: Proposal for Integrating CRediT Standard with PKP Library via CredIT Forge
+### Subject: Proposal for Integrating CRediT Standard with publishing and research management platforms via CredIT Forge
 
 Dear fellow researchers,
 
@@ -12,7 +12,7 @@ Flexible Input & Output Formats: Accepts research summaries in natural language,
 
 Easy Integration: Simple endpoint integration using PHP as illustrated, allowing for quick adoption and scalability within existing PKP infrastructure.
 
-### Advantages to the PKP Community:
+### Advantages to the academic workflow:
 
 Standardized Contributions: Ensures a consistent, industry-wide approach to contributor attribution, aligning with the CRediT initiative by CASRAI.
 
