@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+  <contrib-group>
+    <contrib contrib-type="author">
+      <string-name>
+        <surname>Torres</surname>
+        <given-names>Elena M.</given-names>
+      </string-name>
+      <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Conceptualization" vocab-term-identifier="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+      <role-description>As the lead researcher, Elena coordinated the entire project. She was the mastermind behind the research idea, guiding the team and the study&apos;s direction.</role-description>
+      <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Project administration" vocab-term-identifier="https://credit.niso.org/contributor-roles/project-administration/">Project administration</role>
+      <role-description>As the lead researcher, Elena coordinated the entire project. She was the mastermind behind the research idea, guiding the team and the study&apos;s direction.</role-description>
+      <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Supervision" vocab-term-identifier="https://credit.niso.org/contributor-roles/supervision/">Supervision</role>
+      <role-description>As the lead researcher, Elena coordinated the entire project. She was the mastermind behind the research idea, guiding the team and the study&apos;s direction.</role-description>
+    </contrib>
+    <contrib contrib-type="author">
+      <string-name>
+        <surname>Brighton</surname>
+        <given-names>Charles J.</given-names>
+      </string-name>
+      <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role>
+      <role-description>Charles, with his expertise in theoretical physics, developed the complex mathematical models that formed the backbone of the research.</role-description>
+      <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Methodology" vocab-term-identifier="https://credit.niso.org/contributor-roles/methodology/">Methodology</role>
+      <role-description>Charles, with his expertise in theoretical physics, developed the complex mathematical models that formed the backbone of the research.</role-description>
+    </contrib>
+    <contrib contrib-type="author">
+      <string-name>
+        <surname>Rahman</surname>
+        <given-names>Aisha K.</given-names>
+      </string-name>
+      <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role>
+      <role-description>Aisha&apos;s role was crucial in gathering the telescope data, ensuring that the team had the best possible observational data.</role-description>
+      <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role>
+      <role-description>Aisha&apos;s role was crucial in gathering the telescope data, ensuring that the team had the best possible observational data.</role-description>
+    </contrib>
+    <contrib contrib-type="author">
+      <string-name>
+        <surname>Gupta</surname>
+        <given-names>Rajeev</given-names>
+      </string-name>
+      <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role>
+      <role-description>Rajeev analyzed the vast amounts of data, turning them into understandable insights about dark matter.</role-description>
+      <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role>
+      <role-description>Rajeev analyzed the vast amounts of data, turning them into understandable insights about dark matter.</role-description>
+    </contrib>
+    <contrib contrib-type="author">
+      <string-name>
+        <surname>McAlpine</surname>
+        <given-names>Fiona</given-names>
+      </string-name>
+      <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Equipment or material support" vocab-term-identifier="https://credit.niso.org/contributor-roles/equipment-or-material-support/">Equipment or material support</role>
+      <role-description>Fiona ensured that the telescopic instruments were always in top shape for capturing the best data.</role-description>
+      <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role>
+      <role-description>Fiona ensured that the telescopic instruments were always in top shape for capturing the best data.</role-description>
+    </contrib>
+    <contrib contrib-type="author">
+      <string-name>
+        <surname>Wallace</surname>
+        <given-names>Hector S.</given-names>
+      </string-name>
+      <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Analysis" vocab-term-identifier="https://credit.niso.org/contributor-roles/analysis/">Analysis</role>
+      <role-description>Hector spent hours analyzing and interpreting the findings, key to understanding the results of the study.</role-description>
+      <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Investigation" vocab-term-identifier="https://credit.niso.org/contributor-roles/investigation/">Investigation</role>
+      <role-description>Hector spent hours analyzing and interpreting the findings, key to understanding the results of the study.</role-description>
+    </contrib>
+    <contrib contrib-type="author">
+      <string-name>
+        <surname>Li</surname>
+        <given-names>Maria Z.</given-names>
+      </string-name>
+      <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Data curation" vocab-term-identifier="https://credit.niso.org/contributor-roles/data-curation/">Data curation</role>
+      <role-description>Maria was involved in many aspects of the project, from data collection to drafting sections of the research paper.</role-description>
+      <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-–-original-draft/">Writing – original draft</role>
+      <role-description>Maria was involved in many aspects of the project, from data collection to drafting sections of the research paper.</role-description>
+    </contrib>
+    <contrib contrib-type="author">
+      <string-name>
+        <surname>O&apos;Neill</surname>
+        <given-names>Jonathan P.</given-names>
+      </string-name>
+      <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Writing – review &amp; editing" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-–-review-&amp;-editing/">Writing – review &amp; editing</role>
+      <role-description>Jonathan refined the manuscript, ensuring that the complex science was clearly and accurately conveyed.</role-description>
+    </contrib>
+    <contrib contrib-type="author">
+      <string-name>
+        <surname>DeSouza</surname>
+        <given-names>Lucas</given-names>
+      </string-name>
+      <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Dissemination" vocab-term-identifier="https://credit.niso.org/contributor-roles/dissemination/">Dissemination</role>
+      <role-description>Lucas played a vital role in sharing the research with the world, communicating the study&apos;s findings.</role-description>
+      <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Outreach" vocab-term-identifier="https://credit.niso.org/contributor-roles/outreach/">Outreach</role>
+      <role-description>Lucas played a vital role in sharing the research with the world, communicating the study&apos;s findings.</role-description>
+    </contrib>
+    <contrib contrib-type="author">
+      <string-name>
+        <surname>Sato</surname>
+        <given-names>Emily</given-names>
+      </string-name>
+      <role vocab="credit" vocab-identifier="https://credit.niso.org/" vocab-term="Support – technical (software and hardware)" vocab-term-identifier="https://credit.niso.org/contributor-roles/support-–-technical-(software-and-hardware)/">Support – technical (software and hardware)</role>
+      <role-description>Emily kept the team&apos;s technology running smoothly, addressing both software glitches and hardware hiccups.</role-description>
+    </contrib>
+  </contrib-group>
+</article>
