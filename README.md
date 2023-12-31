@@ -3,12 +3,16 @@
 ## Introduction
 This repository contains examples of how to make POST requests to the CASRAI Credit Taxonomy Project's specified endpoint using different programming languages. The purpose is to provide a clear and easy way for researchers and developers to integrate with our API, enhancing research contribution documentation.
 
+### Actual Response to Below Research Contribution Summary
+
+Find in Directory - End Point Output
+
 ## How to Use
 Each directory contains complete code samples for a specific programming language: Curl, Python, PHP, and Java. Follow the instructions in each file to run the examples.
 
- 1. Curl (Command Line)
+Curl (Command Line)
 ```bash
-curl -X POST -H "Content-Type: application/json" -d '{"text":"Your text here"}' https://tools.casrai.org/generate-metadata
+curl -X POST -H "Content-Type: application/json" -d '{"text":"Your Research Contribution Summary Here... See below for example used in output direcotry."}' https://tools.casrai.org/generate-metadata
 
 Example Research Summary    
 
@@ -36,6 +40,4 @@ Dr. Lucas DeSouza: Lucas played a vital role in sharing the research with the wo
 
 Emily Sato: Emily kept the team's technology running smoothly. Whether it was a software glitch or hardware hiccup, she was there to make sure the team had the tech support they needed.
 
-### Actual Response to Above User Text
 
-Find in Directory - End Point Output
