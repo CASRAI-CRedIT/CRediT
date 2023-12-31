@@ -40,8 +40,7 @@ Emily Sato: Emily kept the team's technology running smoothly. Whether it was a 
 
 ## PDF Graph
 
-![Alt text for CredIT PDF](CredIT-PDF.png)
-
+![image](https://github.com/CASRAI-CRedIT/CRedIT/assets/146287068/23c773fb-86a2-4a9a-9da4-1bd917ec2ae9)
 
 
 ## CredIT Taxonomy Metadata
