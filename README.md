@@ -6,15 +6,15 @@ This repository contains examples of how to make POST requests to the CASRAI Cre
 ## How to Use
 Each directory contains complete code samples for a specific programming language: Curl, Python, PHP, and Java. Follow the instructions in each file to run the examples.
 
-### 1. Curl (Command Line)
+ 1. Curl (Command Line)
 ```bash
 curl -X POST -H "Content-Type: application/json" -d '{"text":"Your text here"}' https://tools.casrai.org/generate-metadata
 
-#### Example Research Summary    
+Example Research Summary    
 
-Below you find a prompt for a research paper, where each team member send their contributions in natural language. Using the endpoint tools.casrai.org, you will get a response from our Llama 2 AI model traned in CRedIT taxonomy dictionary and roles. The servers returns files with the necessary data structures, graphs and metadata to utilize the data in other systems easily. You can find a web based version at casrai.org/credit - simply input the below text or any description of your research work's contributions.
+Below you find a prompt for a research paper, where each team member send their contributions via email in natural language to the research administration manager. Using the endpoint tools.casrai.org, you will get a response from our Llama 2 AI model traned in CRedIT taxonomy dictionary and roles. The servers returns files with the necessary data structures, graphs and metadata to utilize the data in other systems easily. You can find a web based version at casrai.org/credit - simply input the below text or any description of your research work's contributions.
 
-##### Sample Prompt
+Research Summary:
 
 Dr. Elena M. Torres: As the lead researcher, Elena coordinated the entire project. She was the mastermind behind the research idea, drawing on her extensive knowledge in astrophysics to guide the team and the study's direction.
 
@@ -36,6 +36,6 @@ Dr. Lucas DeSouza: Lucas played a vital role in sharing the research with the wo
 
 Emily Sato: Emily kept the team's technology running smoothly. Whether it was a software glitch or hardware hiccup, she was there to make sure the team had the tech support they needed.
 
-###### Actual Response to Above User Text
+### Actual Response to Above User Text
 
 Find in Directory - End Point Output
