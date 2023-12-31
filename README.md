@@ -6,9 +6,10 @@ This repository contains examples of how to make POST requests to the CASRAI Cre
 ### Actual Response to Below Research Contribution Summary
 
 Find in Directory - End Point Output
+Or try our web-based version at https://casrai.org/credit for individual processing without having to use our API. 
 
 ## How to Use
-Each directory contains complete code samples for a specific programming language: Curl, Python, PHP, and Java. Follow the instructions in each file to run the examples.
+Each file in main contains complete code samples for a specific programming language: Curl, Python, PHP, and Java. Follow the instructions in each file to run the examples.
 
 Curl (Command Line)
 ```bash
@@ -16,7 +17,7 @@ curl -X POST -H "Content-Type: application/json" -d '{"text":"Your Research Cont
 
 Example Research Summary    
 
-Below you find a prompt for a research paper, where each team member send their contributions via email in natural language to the research administration manager. Using the endpoint tools.casrai.org, you will get a response from our Llama 2 AI model traned in CRedIT taxonomy dictionary and roles. The servers returns files with the necessary data structures, graphs and metadata to utilize the data in other systems easily. You can find a web based version at casrai.org/credit - simply input the below text or any description of your research work's contributions.
+Below you find a summary of contributions for a research paper, where each team member send their contributions via email in natural language to the research administration manager. Using the endpoint tools.casrai.org, you will get a response from our Llama 2 AI model traned in CRedIT taxonomy dictionary and roles. The servers returns files with the necessary data structures, graphs and metadata to utilize the data in other systems easily. You can find a web based version at casrai.org/credit - simply input the below text or any description of your research work's contributions.
 
 Research Summary:
 
