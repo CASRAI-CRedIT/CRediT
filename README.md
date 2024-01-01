@@ -1,7 +1,7 @@
 # CASRAI Credit Taxonomy Project API Examples
 
 ## Introduction
-This repository contains examples of how to make POST requests to the CASRAI Credit Taxonomy Project's specified endpoint using different programming languages. The purpose is to provide a clear and easy way for researchers and developers to integrate with our API, enhancing research contribution documentation.
+This repository contains examples of how to make POST requests to the CASRAI Credit Taxonomy Project's specified endpoint using different programming languages. The purpose is to provide a clear and easy way for researchers and developers to integrate with our API, enhancing research contribution documentation. This endpoint connects with a Llama 2 Meta AI model trained on Credit Taxonomy and contributor roles. We will be rolling out more endpoints for specific use cases soon, stay tuned!
 
 ### Actual Response to Below Research Contribution Summary
 
