@@ -1,4 +1,4 @@
-# CASRAI.org Credit Taxonomy Project API Examples
+# CASRAI Credit Taxonomy Project API Examples
 
 ## Introduction
 This repository contains examples of how to make POST requests to the CASRAI Credit Taxonomy Project's specified endpoint using different programming languages. The purpose is to provide a clear and easy way for researchers and developers to integrate with our API, enhancing research contribution documentation.
